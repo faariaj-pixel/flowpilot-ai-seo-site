@@ -3,6 +3,16 @@
 ## 2026-08-09
 
 ### Changed
+- Removed visible footer links to `Sitemap`, `Robots`, and `Pending SEO items` from public pages.
+- Replaced them with client-facing footer links: Services, Solutions, Industries, Resources, and Contact.
+
+### Improvement
+- Keeps technical SEO files available to crawlers while removing internal/admin links from the visitor experience.
+
+### Reason
+- Faaria noticed the public footer exposed technical and pending-work links that should not be visitor-facing.
+
+### Changed
 - Updated the visual color system: orange primary CTAs, warm cream background, charcoal headings, pale peach accent sections, and muted sage highlights/icons.
 
 ### Improvement
