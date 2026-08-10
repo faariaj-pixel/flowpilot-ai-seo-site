@@ -3,6 +3,16 @@
 ## 2026-08-09
 
 ### Changed
+- Replaced visible internal SEO/planning labels such as `Money page`, `High-intent SEO focus`, `Topic clusters`, `Commercial research`, `Authority guide`, `Local SEO page`, `Problem / solution page`, `Industry solution`, and `Adjacent money keyword`.
+- Updated those labels to visitor-facing copy such as `AI automation consulting`, `Built for real business workflows`, `Explore automation opportunities`, `Compare your options`, `Practical ROI guide`, `Toronto automation support`, `Workflow solution`, `Industry workflows`, and `No-code automation support`.
+
+### Improvement
+- Makes the site feel polished and client-facing instead of exposing internal SEO architecture language.
+
+### Reason
+- Faaria noticed the orange labels looked like internal SEO headers rather than public website copy.
+
+### Changed
 - Removed visible footer links to `Sitemap`, `Robots`, and `Pending SEO items` from public pages.
 - Replaced them with client-facing footer links: Services, Solutions, Industries, Resources, and Contact.
 
