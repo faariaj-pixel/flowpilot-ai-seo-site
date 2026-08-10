@@ -3,6 +3,15 @@
 ## 2026-08-09
 
 ### Changed
+- Updated canonical, Open Graph image, robots and sitemap URLs to the verified Vercel production alias.
+
+### Improvement
+- Ensures search engines and AI crawlers see the same canonical production domain that was publicly verified.
+
+### Reason
+- The original planned domain was replaced by the actual Vercel deployment alias after live verification.
+
+### Changed
 - Created static FlowPilot AI SEO site.
 - Added homepage, service pages, local page, industries hub and two resource pages.
 - Added `SEO-STRATEGY.md`, `SEO-KEYWORDS.md`, `SEO-ROADMAP.md`, `SEO-CHANGELOG.md`.

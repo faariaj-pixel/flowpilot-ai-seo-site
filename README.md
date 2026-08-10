@@ -1,5 +1,8 @@
 # FlowPilot AI SEO Landing Site
 
+Live URL: https://flowpilot-ai-hermes-team.vercel.app/
+GitHub: https://github.com/faariaj-pixel/flowpilot-ai-seo-site
+
 Static SEO-focused landing site for FlowPilot AI, an AI automation consulting and implementation service for SMBs in Toronto, Ontario.
 
 ## Pages
