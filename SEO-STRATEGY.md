@@ -1,11 +1,11 @@
 # SEO Strategy: FlowPilot AI
 
 ## Business positioning
-FlowPilot AI is positioned as a Toronto-based AI automation consulting, implementation and training partner for SMBs that need measurable workflow improvement rather than generic AI advice. The strongest commercial association is: FlowPilot AI -> AI automation consultant -> SMB implementation -> Toronto/Ontario -> clinics, real estate, law firms, accounting firms, home services, ecommerce and professional services.
+FlowPilot AI is positioned as a Toronto-based AI automation consulting, implementation and training partner for growing service businesses that need measurable workflow improvement rather than generic AI advice. The strongest commercial association is: FlowPilot AI -> AI automation consultant -> service-business implementation -> Toronto/Ontario -> clinics, real estate, law firms, accounting firms, home services, ecommerce and professional services.
 
 ## SEO objectives
 - Generate qualified inbound opportunities from buyers actively looking for AI automation consulting, implementation, pricing, training, workshops, quotes or local support.
-- Prioritize searches with high buying intent and clear SMB business value over vanity traffic.
+- Prioritize searches with high buying intent and clear service-business value over vanity traffic.
 - Use the free AI workflow audit as the primary conversion path.
 
 ## Ideal customers
@@ -26,10 +26,10 @@ Search patterns overlap with AI automation agencies, business process automation
 - Massive Insights Toronto data/AI consulting: https://www.massiveinsights.com/
 
 ## Search opportunity analysis
-Highest buying intent is concentrated around local consultant/provider searches and implementation/pricing searches. Broader authority opportunities include AI workflow automation, business process automation for SMBs, AI agents for business operations, AI intake automation, AI lead follow-up automation and AI automation ROI.
+Highest buying intent is concentrated around local consultant/provider searches and implementation/pricing searches. Broader authority opportunities include AI workflow automation, business process automation for growing service businesses, AI agents for business operations, AI intake automation, AI lead follow-up automation and AI automation ROI.
 
 ## Topical authority strategy
-Pillar: AI automation for SMBs.
+Pillar: AI automation for growing service businesses.
 Commercial pages: AI automation consulting, AI automation implementation, AI automation training/workshops, AI automation pricing.
 Use cases: lead intake, follow-up, onboarding, reporting, customer service, operations.
 Industries: clinics, real estate, law firms, accounting firms, home services, ecommerce and professional services.

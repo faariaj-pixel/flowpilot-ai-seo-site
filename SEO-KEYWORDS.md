@@ -8,8 +8,8 @@
 | business process automation consultant Toronto | Money | Automation | Toronto | Adjacent higher familiarity | /services/ai-automation-consulting/ | P0 |
 | AI workflow automation consultant | Money | Workflow automation | Canada | Strong service fit | /services/ai-automation-consulting/ | P0 |
 | AI automation implementation | Money | Implementation | National | Buyer needs build support | /services/ai-automation-implementation/ | P0 |
-| AI automation consultant for small business | Money | SMB | National | Direct ICP fit | /services/ai-automation-consulting/ | P0 |
-| AI automation services for SMB | Service | SMB | National | Core positioning | / | P0 |
+| AI automation consultant for service business | Money | Service businesses | National | Direct ICP fit | /services/ai-automation-consulting/ | P0 |
+| AI automation services for growing service businesses | Service | service business | National | Core positioning | / | P0 |
 | AI automation pricing | Commercial research | Pricing | National | Buyer evaluating cost | /resources/ai-automation-pricing/ | P1 |
 | AI automation cost for small business | Commercial research | Pricing | National | Budget-ready buyer | /resources/ai-automation-pricing/ | P1 |
 | hire AI automation consultant | Money | Hiring | National | High intent | /services/ai-automation-consulting/ | P1 |
@@ -31,8 +31,8 @@
 | Make.com automation consultant | Adjacent money | No-code automation | National | Tool-specific implementation | Future /services/zapier-make-automation/ | P3 |
 
 ## Tier groups
-- Tier 1 Money: AI automation consultant Toronto, AI automation services for SMB, AI automation implementation, hire AI automation consultant.
+- Tier 1 Money: AI automation consultant Toronto, AI automation services for growing service businesses, AI automation implementation, hire AI automation consultant.
 - Tier 2 Problem/Solution: automate lead follow-up, automate client intake, reduce manual admin work, automate reporting.
 - Tier 3 Commercial Research: AI automation pricing, AI automation cost, best AI automation tools, AI automation agency vs consultant.
 - Tier 4 Authority: what is AI workflow automation, AI automation ROI, AI workflow architecture, AI automation examples.
-- Tier 5 Emerging: AI agents for business operations, agentic workflow automation, AI operations consultant for SMB.
+- Tier 5 Emerging: AI agents for business operations, agentic workflow automation, AI operations consultant for service businesses.

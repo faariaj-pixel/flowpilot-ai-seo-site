@@ -3,6 +3,16 @@
 ## 2026-08-09
 
 ### Changed
+- Replaced corporate shorthand for small/mid-market businesses with warmer language such as `growing service businesses`, `service businesses`, and `service teams`.
+- Updated the homepage H1 to: `AI automation consulting for growing service businesses that need faster follow-up, cleaner intake, and less manual admin.`
+
+### Improvement
+- Makes the positioning more human, specific, and aligned with FlowPilot AI's target industries without using corporate shorthand.
+
+### Reason
+- Faaria wanted the shorter corporate abbreviation removed from the site.
+
+### Changed
 - Rebuilt the site into a broader lightweight multi-page SEO architecture with services, solutions, industry pages, resource pages, breadcrumbs, Service/FAQ/Breadcrumb schema, an SVG logo mark, custom 404 page and Vercel config.
 
 ### Improvement
@@ -41,4 +51,4 @@
 - Created authority-supporting resources for AI automation ROI and pricing.
 
 ### Reason
-- FlowPilot AI needs qualified inbound opportunities, not vanity traffic. The initial architecture prioritizes SMB buyers looking for a consultant, provider, implementation help, pricing clarity or a local Toronto expert.
+- FlowPilot AI needs qualified inbound opportunities, not vanity traffic. The initial architecture prioritizes service-business buyers looking for a consultant, provider, implementation help, pricing clarity or a local Toronto expert.

@@ -3,7 +3,7 @@
 Live URL: https://flowpilot-ai-hermes-team.vercel.app/
 GitHub: https://github.com/faariaj-pixel/flowpilot-ai-seo-site
 
-Static SEO-focused multi-page website for FlowPilot AI, an AI automation consulting, implementation and training service for SMBs in Toronto, Ontario.
+Static SEO-focused multi-page website for FlowPilot AI, an AI automation consulting, implementation and training service for growing service businesses in Toronto, Ontario.
 
 ## Architecture
 
