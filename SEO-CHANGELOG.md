@@ -3,6 +3,15 @@
 ## 2026-08-09
 
 ### Changed
+- Updated the visual color system: orange primary CTAs, warm cream background, charcoal headings, pale peach accent sections, and muted sage highlights/icons.
+
+### Improvement
+- Creates a warmer, more service-business-friendly brand feel while keeping the site lightweight and readable.
+
+### Reason
+- Faaria requested a warmer palette with orange CTAs, cream backgrounds, charcoal headings, pale peach/beige sections, and orange plus muted sage highlights.
+
+### Changed
 - Replaced corporate shorthand for small/mid-market businesses with warmer language such as `growing service businesses`, `service businesses`, and `service teams`.
 - Updated the homepage H1 to: `AI automation consulting for growing service businesses that need faster follow-up, cleaner intake, and less manual admin.`
 
