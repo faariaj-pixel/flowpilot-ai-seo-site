@@ -4,10 +4,9 @@
 FlowPilot AI is positioned as a Toronto-based AI automation consulting, implementation and training partner for SMBs that need measurable workflow improvement rather than generic AI advice. The strongest commercial association is: FlowPilot AI -> AI automation consultant -> SMB implementation -> Toronto/Ontario -> clinics, real estate, law firms, accounting firms, home services, ecommerce and professional services.
 
 ## SEO objectives
-- Generate 50 qualified inbound leads per month.
-- Convert those leads into 2 booked customers per month.
-- Drive 5 free AI workflow audits per month.
-- Prioritize searches where buyers are seeking a provider, expert, consultant, implementation help, pricing, training, workshops, quotes or local support.
+- Generate qualified inbound opportunities from buyers actively looking for AI automation consulting, implementation, pricing, training, workshops, quotes or local support.
+- Prioritize searches with high buying intent and clear SMB business value over vanity traffic.
+- Use the free AI workflow audit as the primary conversion path.
 
 ## Ideal customers
 1. Clinics needing intake, reminders and admin routing.

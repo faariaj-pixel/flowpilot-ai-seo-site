@@ -3,6 +3,15 @@
 ## 2026-08-09
 
 ### Changed
+- Removed visitor-facing monthly lead/customer target language from the hero card and replaced it with free workflow audit positioning.
+
+### Improvement
+- Keeps internal business goals out of public website copy while preserving a clear audit CTA and buyer-focused value proposition.
+
+### Reason
+- The monthly lead and customer numbers were FlowPilot AI's internal target, not public-facing proof or an offer promise.
+
+### Changed
 - Updated canonical, Open Graph image, robots and sitemap URLs to the verified Vercel production alias.
 
 ### Improvement
