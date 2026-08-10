@@ -3,6 +3,15 @@
 ## 2026-08-09
 
 ### Changed
+- Rebuilt the site into a broader lightweight multi-page SEO architecture with services, solutions, industry pages, resource pages, breadcrumbs, Service/FAQ/Breadcrumb schema, an SVG logo mark, custom 404 page and Vercel config.
+
+### Improvement
+- Better matches distinct search intent across money keywords, problem/solution searches, industry searches and commercial research queries while keeping the site static and fast.
+
+### Reason
+- The implementation prompt required a complete lightweight multi-page SEO site with technical SEO, internal linking, local relevance and live deployment verification.
+
+### Changed
 - Removed visitor-facing monthly lead/customer target language from the hero card and replaced it with free workflow audit positioning.
 
 ### Improvement

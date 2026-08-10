@@ -31,6 +31,10 @@
 - [ ] Collect testimonials, project outcomes and partner profiles.
 
 ## Completed
+- [x] Add tool-comparison and Zapier/Make pages for commercial research searches.
+- [x] Expand distinct solution and industry pages from keyword strategy.
+- [x] Add breadcrumb schema and visible breadcrumbs to important pages.
+- [x] Add custom 404 page.
 - [x] Sprint 1 research and SEO documentation.
 - [x] Sprint 2 initial money pages.
 - [x] Sprint 7 initial technical SEO files.
